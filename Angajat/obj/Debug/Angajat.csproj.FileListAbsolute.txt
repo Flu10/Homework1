@@ -1,0 +1,9 @@
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\bin\Debug\Angajat.exe.config
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\bin\Debug\Angajat.exe
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\bin\Debug\Angajat.pdb
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\obj\Debug\Angajat.csprojResolveAssemblyReference.cache
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\obj\Debug\Angajat.exe
+D:\Munca\Teamnet\DotNetC#\MyHomework\Angajat\obj\Debug\Angajat.pdb
+D:\Munca\Teamnet\DotNetC#\Homework1\Homework1\Angajat\bin\Debug\Angajat.exe.config
+D:\Munca\Teamnet\DotNetC#\Homework1\Homework1\Angajat\obj\Debug\Angajat.exe
+D:\Munca\Teamnet\DotNetC#\Homework1\Homework1\Angajat\obj\Debug\Angajat.pdb
